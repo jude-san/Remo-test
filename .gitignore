@@ -2,3 +2,5 @@
 python_automation/log.txt
 python_automation/state.json
 python_automation/__pycache__/
+*.json
+*.txt
