@@ -1,3 +1,4 @@
 # Project specific
-../python_automation/log.txt
-../python_automation/state.json
+python_automation/log.txt
+python_automation/state.json
+python_automation/__pycache__/
