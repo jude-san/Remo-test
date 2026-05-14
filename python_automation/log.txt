@@ -1,0 +1,197 @@
+NEW FILE: monitoring.py | 1.62 KB | 2026-05-14 09:55:38
+NEW FILE: state.json | 0.04 KB | 2026-05-14 09:57:57
+NEW FILE: log.txt | 0.05 KB | 2026-05-14 09:57:57
+NEW FILE: amenities_satisfaction_vs_price.png | 140.55 KB | 2026-04-23 10:26:23
+NEW FILE: hostels_prices_by_amenities_satisfaction.png | 90.22 KB | 2026-04-23 10:26:28
+NEW FILE: Gmail - MSc Cybersecurity - 250448940.PDF | 234.53 KB | 2025-10-28 06:33:14
+NEW FILE: AZ-900.zip | 0.00 KB | 2025-07-24 00:26:45
+NEW FILE: VMware-Workstation-17.6.3-24583834.x86_64.bundle.tar | 201600.00 KB | 2025-06-01 00:57:04
+NEW FILE: pie_room_type_distribution.png | 148.10 KB | 2026-04-23 10:27:11
+NEW FILE: List of Ashesi students.xlsx | 7.84 KB | 2025-06-02 00:06:40
+NEW FILE: mr Jude(1).xlsx | 10.47 KB | 2025-07-20 23:49:07
+NEW FILE: Dev Foundry CFA 1.jpg | 76.76 KB | 2025-07-07 20:16:28
+NEW FILE: ai-900_4 (1).pdf | 135.27 KB | 2025-07-01 15:51:54
+NEW FILE: Tech4Dev DF.zip | 1.62 KB | 2025-05-19 17:02:24
+NEW FILE: hadware 1.png | 5183.23 KB | 2025-07-27 23:42:32
+NEW FILE: setup_frappe_final.sh | 3.98 KB | 2026-01-08 10:03:49
+NEW FILE: yt-dlp | 3016.14 KB | 2025-10-18 07:15:10
+NEW FILE: content-review-and-exam-strategy-session-1.ics | 0.81 KB | 2025-09-23 21:07:24
+NEW FILE: .~lock.FURTHER_ANALYSIS_ISSSUES_2025_12_04.xlsx# | 0.11 KB | 2025-12-04 15:30:32
+NEW FILE: red-tale-favicon2.png | 442.50 KB | 2026-01-21 16:11:20
+NEW FILE: code_1.109.3-1770920364_amd64.deb | 113812.37 KB | 2026-02-13 09:44:41
+NEW FILE: Microsoft Word Activities For Kids.jpeg | 31.99 KB | 2025-09-17 14:55:25
+NEW FILE: Microsoft Word Icon Worksheet _ Teaching Resources.jpeg | 32.22 KB | 2025-09-17 14:44:49
+NEW FILE: arete_wordpress_key.pem | 1.63 KB | 2025-10-17 15:52:24
+NEW FILE: Lab 3 - OpenStack.docx | 99.79 KB | 2025-07-15 17:14:19
+NEW FILE: Statistical service 21-Apr-2025 14-18-29.pdf | 3436.88 KB | 2025-05-15 16:18:28
+NEW FILE: CV(Awura+Akua+Fosua+Agyemang)1+(1)(1).docx | 35.85 KB | 2025-09-15 22:14:31
+NEW FILE: JUDE 3.xlsx | 6.54 KB | 2025-08-07 19:34:47
+NEW FILE: .~lock.Team_21_CSProErrors_2025-10-14.xlsx# | 0.11 KB | 2025-10-14 14:10:33
+NEW FILE: 83343443_padded_logo.png | 34.43 KB | 2025-07-03 00:21:32
+NEW FILE: PHPMailer-6.10.0.tar.gz | 112.56 KB | 2025-07-03 00:15:25
+NEW FILE: 6 Apache HIVE Tutorial on KDDCup dataset.pdf | 761.71 KB | 2025-05-29 10:24:14
+NEW FILE: Alice_Anane-Nursing Cert.jpeg | 163.71 KB | 2026-04-30 21:35:47
+NEW FILE: Packserve Website Solution Meeting - Microsoft Teams.mp4 | 19000.83 KB | 2026-01-12 11:13:14
+NEW FILE: Noldith FON Packagin Website.pdf | 390.17 KB | 2026-01-12 23:15:53
+NEW FILE: exam-sc-900-microsoft-security-compliance-and-identity-fundamentals-skills-measured.pdf | 138.55 KB | 2025-07-01 15:52:10
+NEW FILE: sc-900 update.pdf | 266.44 KB | 2025-07-01 15:51:59
+NEW FILE: www.1TamilBlasters.fi - The Accountant 2 (2025)].mkv.fdmdownload | 1734021.88 KB | 2025-06-12 18:10:51
+NEW FILE: 4 Install Cloudera for VMWare.pdf | 1367.41 KB | 2025-05-29 10:24:03
+NEW FILE: Anane Alice Doduwa(Birth Cert).pdf | 1411.43 KB | 2026-04-30 17:05:58
+NEW FILE: Personal Documents.zip | 70172.53 KB | 2025-05-15 18:03:22
+NEW FILE: Jude N koomson _transcript.pdf | 1225.19 KB | 2025-06-02 15:44:49
+NEW FILE: EasyRSA-3.2.5.tgz | 89.95 KB | 2026-01-21 11:17:40
+NEW FILE: wappalyzer_packhelp-com.csv | 3.23 KB | 2025-12-16 16:17:10
+NEW FILE: Request for Revised Manuscript Submission (INTREST).eml | 2720.10 KB | 2026-02-12 21:04:26
+NEW FILE: easy-install.py | 23.76 KB | 2026-02-10 10:53:58
+NEW FILE: Team_21_ValidationErrors_2025-08-07.xlsx | 36.40 KB | 2025-08-07 18:48:00
+NEW FILE: UNSW-NB15_features.csv | 3.95 KB | 2025-05-29 10:25:49
+NEW FILE: Untitled design.png | 55.60 KB | 2025-10-21 10:45:31
+NEW FILE: DevOps_Engineer_1748450976.pdf | 4940.18 KB | 2025-06-01 23:47:08
+NEW FILE: (v2_update) NEW INDIVIDUAL ESL BROKERAGE.pdf | 2452.00 KB | 2025-11-10 17:28:43
+NEW FILE: COLLINS BAFFOE-RESUME.pdf | 65.68 KB | 2025-10-13 16:03:05
+NEW FILE: CNCF - Jaeger Cover Letter.pdf | 38.33 KB | 2025-05-15 19:42:21
+NEW FILE: Anane Alice Doduwa(WAEC Certificate B).pdf | 1433.27 KB | 2026-04-30 17:06:08
+NEW FILE: pie_accommodation_affordability.png | 100.70 KB | 2026-04-23 10:26:35
+NEW FILE: technical-report-template-26.doc | 150.00 KB | 2025-07-16 08:17:46
+NEW FILE: azureVM_creation_template.zip | 3.42 KB | 2025-11-07 07:09:04
+NEW FILE: 🚨Only 2 Days Left to Save 75_ on the Cyber AI Mastery Bundle.pdf | 1787.17 KB | 2025-07-29 16:22:59
+NEW FILE: stamp.pdf | 56.44 KB | 2026-03-12 15:43:56
+NEW FILE: backup_wp-content.zip | 201951.17 KB | 2026-01-26 15:53:56
+NEW FILE: zzipped.zip | 14855.43 KB | 2025-11-06 19:08:46
+NEW FILE: AZ-900(1).zip | 0.57 KB | 2025-07-24 01:29:40
+NEW FILE: Frontend-zenith.zip | 11121.31 KB | 2026-03-26 09:32:12
+NEW FILE: exam-sc-900-microsoft-security-compliance-and-identity-fundamentals-skills-measured-1.pdf | 138.55 KB | 2025-07-01 15:52:10
+NEW FILE: xenial-server-cloudimg-amd64-disk1.img.fdmdownload | 307968.00 KB | 2025-07-15 17:16:22
+NEW FILE: Anane Alice Doduwa(Online admin application).pdf | 945.27 KB | 2026-04-30 17:06:21
+NEW FILE: hero-section.svg | 6501.78 KB | 2026-02-16 10:18:27
+NEW FILE: kubectl.sha256 | 0.06 KB | 2025-05-16 23:46:33
+NEW FILE: Gemini_Generated_Image_2.png | 31.59 KB | 2026-01-21 16:12:39
+NEW FILE: red_tale_server.sh | 2.15 KB | 2026-01-26 14:40:30
+NEW FILE: task-pve-aptupdate-2025-07-09T21_29_08Z.log | 1.24 KB | 2025-07-09 21:30:03
+NEW FILE: tes-vpn.pem | 1.63 KB | 2026-01-21 09:14:22
+NEW FILE: JUDE 2.xlsx | 6.63 KB | 2025-08-07 19:34:58
+NEW FILE: OneDrive_2_8-1-2025.zip | 0.00 KB | 2025-08-01 00:09:49
+NEW FILE: pie_accommodation_location.png | 111.85 KB | 2026-04-23 10:26:50
+NEW FILE: az-installation | 4.55 KB | 2025-10-29 17:25:26
+NEW FILE: CERTIFICATE 1.pdf | 336.53 KB | 2025-06-02 15:47:14
+NEW FILE: exam-strategy-session-5-aws-certification-program.ics | 0.81 KB | 2025-09-15 17:29:36
+NEW FILE: AZ-900_Exam_Dumps_429_Q&A_PDF_Clearcatnet[1]1.pdf | 42168.11 KB | 2025-07-01 15:49:51
+NEW FILE: Recordings.zip | 0.00 KB | 2025-05-17 22:26:20
+NEW FILE: JUDE 3(1).xlsx | 9.08 KB | 2025-10-24 10:59:15
+NEW FILE: compose-etl.zip | 7691.38 KB | 2025-07-14 22:27:40
+NEW FILE: ubuntu-22.04.1-live-server-amd64.iso.fdmdownload | 1440306.00 KB | 2025-07-15 17:16:21
+NEW FILE: 3 Part 2 - Deploying Hadoop.pdf | 455.51 KB | 2025-05-29 10:24:31
+NEW FILE: Black logo - no background.png | 122.11 KB | 2025-07-03 00:21:41
+NEW FILE: JUDY'S CV LATEST UPDATE.docx | 35.80 KB | 2025-09-16 10:57:00
+NEW FILE: 12837989.pdf | 383.03 KB | 2025-07-15 17:09:33
+NEW FILE: BRIEF - Packaging General 2.pdf | 118.88 KB | 2026-01-12 14:09:29
+NEW FILE: Lecture 19 - CSaaS.pptm | 14292.26 KB | 2025-07-14 20:23:19
+NEW FILE: Azure Infrastructure Design Document.pdf | 543.32 KB | 2025-09-02 14:26:28
+NEW FILE: technical-report-template-50.doc | 155.00 KB | 2025-07-16 08:22:18
+NEW FILE: mr Jude(2).xlsx | 10.23 KB | 2025-10-24 10:59:14
+NEW FILE: Jude Nyamekye Koomson - UMBC Admission Letter.pdf | 84.04 KB | 2026-04-23 13:24:57
+NEW FILE: Top features of Workplace in a nutshell (1).pdf | 4785.76 KB | 2025-10-30 07:38:58
+NEW FILE: .~lock.occupancy_issue_team_21_2025-12-19(2).xlsx# | 0.08 KB | 2025-12-19 14:05:41
+NEW FILE: tigernut CHAPTER ONe docx (Copy).docx | 14855.43 KB | 2025-11-06 19:08:46
+NEW FILE: Talent Job Description PDF.pdf | 60.99 KB | 2025-05-27 09:12:57
+NEW FILE: CV(Awura+Akua+Fosua+Agyemang)1+(1).docx | 15.30 KB | 2025-09-15 20:49:24
+NEW FILE: mr judi.xlsx | 10.24 KB | 2025-10-24 10:59:16
+NEW FILE: production_db_backup.zip | 794.31 KB | 2026-01-26 16:12:15
+NEW FILE: undefined_undefined_Certificate (1).pdf | 2258.44 KB | 2026-02-13 12:37:47
+NEW FILE: Access (Mathematics-EX 1) QP.pdf | 236.51 KB | 2026-01-13 15:55:53
+NEW FILE: Passport.pdf | 417.42 KB | 2025-06-16 14:04:32
+NEW FILE: Lecture 18 - Future.pptm | 1795.82 KB | 2025-07-14 20:12:36
+NEW FILE: JUDY'S CV 2.docx | 213.99 KB | 2025-09-15 20:49:23
+NEW FILE: program-kick-off-session.ics | 0.72 KB | 2025-09-15 17:42:45
+NEW FILE: red-tale.pem | 1.64 KB | 2026-01-26 14:57:17
+NEW FILE: SaS7fgto.html | 0.00 KB | 2025-05-16 22:07:05
+NEW FILE: AZ-900_Exam_Dumps_429_Q&A_PDF_Clearcatnet[1]1-2.pdf | 42168.11 KB | 2025-07-01 15:57:01
+NEW FILE: tigernut CHAPTER ONe docx.docx | 14855.43 KB | 2025-11-06 19:08:46
+NEW FILE: setup_frappe.sh | 3.50 KB | 2026-01-07 14:55:16
+NEW FILE: sc-900 document.pdf | 5982.51 KB | 2025-07-01 15:49:10
+NEW FILE: 1777635436215.png | 284.51 KB | 2026-05-06 14:27:07
+NEW FILE: AZ-900(2).zip | 0.00 KB | 2025-07-24 01:47:31
+NEW FILE: bg-stamp.png | 383.31 KB | 2026-03-12 15:46:09
+NEW FILE: 7 RDD Programming using PySpark.pdf | 442.64 KB | 2025-05-29 10:24:31
+NEW FILE: image.jpeg | 10.66 KB | 2026-01-27 08:56:48
+NEW FILE: projected_price_by_accommodation_type_catboost.png | 117.24 KB | 2026-04-23 10:27:17
+NEW FILE: Mr. Stephen CONTRACT - Copy.pdf | 227.14 KB | 2025-11-05 10:44:57
+NEW FILE: document-for-applicants-phd_26.pdf | 240.79 KB | 2026-01-02 20:34:21
+NEW FILE: Gemini_Generated_Image_4l4shn4l4shn4l4s (1).png | 832.06 KB | 2026-01-22 13:24:37
+NEW FILE: Copy of NEW INDIVIDUAL ESL BROKERAGE (1) 1.pdf | 2429.86 KB | 2025-11-04 18:56:48
+NEW FILE: AZ-900(3).zip | 553530.74 KB | 2025-07-24 02:31:35
+NEW FILE: Developers Foundry - Student ID.pdf | 57.65 KB | 2025-11-28 10:13:23
+NEW FILE: WhatsApp Unknown 2026-01-13 at 15.43.01.zip | 96.65 KB | 2026-01-13 15:43:01
+NEW FILE: Lecture 3 - OpenStack.pptm | 1615.25 KB | 2025-07-15 17:14:18
+NEW FILE: 2 Part 1 - Deploying Hadoop.pdf | 272.12 KB | 2025-05-29 10:24:12
+NEW FILE: Curriculum Vitae.pdf | 55.50 KB | 2025-05-24 05:29:02
+NEW FILE: mr Jude.xlsx | 10.47 KB | 2025-07-20 23:48:41
+NEW FILE: Outstanding_section_3_issues_2025-08-07b(1).xlsx | 44.30 KB | 2025-08-07 18:39:13
+NEW FILE: container_checker.sh | 1.18 KB | 2026-01-26 14:41:35
+NEW FILE: az-900 223questions.pdf | 12578.64 KB | 2025-07-01 15:49:27
+NEW FILE: Anane Alice Doduwa(GNC).pdf | 1078.75 KB | 2026-04-30 17:05:58
+NEW FILE: projected_price_by_room_type_catboost.png | 149.45 KB | 2026-04-23 10:27:33
+NEW FILE: 16013306.pdf | 82.17 KB | 2025-07-15 17:08:13
+NEW FILE: WhatsApp Image 2026-04-30 at 18.56.45.jpeg | 144.73 KB | 2026-04-30 21:35:12
+NEW FILE: WhatsApp Image 2026-02-10 at 10.48.44.jpeg | 55.87 KB | 2026-02-19 09:47:06
+NEW FILE: DERRICK.zip | 7.67 KB | 2025-08-15 16:28:13
+NEW FILE: Statistical service 21-Apr-2025 14-18-29-1.pdf | 3436.88 KB | 2025-05-15 16:18:29
+NEW FILE: Updated QLFS Final EAs and Households sampling points _29052025_Supervisors.xlsx | 5329.41 KB | 2025-05-29 20:45:54
+NEW FILE: kcna_quiz_game_v2.html | 268.30 KB | 2025-09-01 14:25:32
+NEW FILE: Team_21_ValidationErrors_2025-08-03(1).xlsx | 30.02 KB | 2025-08-04 09:54:36
+NEW FILE: JUDY'S CV 2(1).docx | 213.99 KB | 2025-09-15 20:49:49
+NEW FILE: pie_gender_distribution.png | 92.70 KB | 2026-04-23 10:27:02
+NEW FILE: New Assesment Descriptor.pdf | 219.44 KB | 2025-05-29 10:24:37
+NEW FILE: WhatsApp Image 2025-11-14 at 11.12.37.jpeg | 51.53 KB | 2025-11-14 11:14:11
+NEW FILE: pie_distance_from_campus.png | 144.47 KB | 2026-04-23 10:27:01
+NEW FILE: OneDrive_1_8-1-2025(1).zip | 0.00 KB | 2025-08-01 02:10:03
+NEW FILE: OneDrive_1_8-1-2025.zip | 740328.40 KB | 2025-08-01 01:14:44
+NEW FILE: proxmox-ve_8.4-1.torrent | 58.72 KB | 2025-07-01 17:46:34
+NEW FILE: course_outline.pdf | 2.10 KB | 2025-07-25 15:24:47
+NEW FILE: alice_cert_me.pdf | 311.84 KB | 2026-04-30 21:39:37
+NEW FILE: JUDY'S CV LATEST UPDATE.pdf | 167.33 KB | 2025-09-16 10:57:35
+NEW FILE: Team_21_ValidationErrors_2025-08-03.xlsx | 30.02 KB | 2025-08-04 09:09:36
+NEW FILE: WhatsApp Unknown 2026-03-26 at 09.52.17.zip | 128.62 KB | 2026-03-26 09:52:17
+NEW FILE: ERP-test_key.pem | 2.44 KB | 2026-01-07 09:54:35
+NEW FILE: .~lock.budg12Star_rmrate_issue_team_21_2026-01-07.xlsx# | 0.11 KB | 2026-01-09 17:16:19
+NEW FILE: 12837989-1.pdf | 383.03 KB | 2025-07-15 17:11:37
+NEW FILE: Jude Nyamekye Koomson_Interviewer_Contract.pdf | 209.20 KB | 2025-10-06 11:20:52
+NEW FILE: CV(Awura Akua Fosua Agyemang)1 (1).pdf | 168.67 KB | 2025-09-15 20:49:27
+NEW FILE: globe 1.png | 5724.26 KB | 2025-07-28 00:40:57
+NEW FILE: WhatsApp Image 2026-04-30 at 18.56.26.jpeg | 163.71 KB | 2026-04-30 21:35:09
+NEW FILE: .~lock.Team_21_ValidationErrors_2025-08-07.xlsx# | 0.08 KB | 2025-08-08 12:55:14
+NEW FILE: DERRICK.html | 38.53 KB | 2025-08-15 18:31:42
+NEW FILE: Team_21_CSProErrors_2025-10-14.xlsx | 2.77 KB | 2025-10-14 14:10:03
+NEW FILE: Workplace quick start.pdf | 133.54 KB | 2025-10-30 07:39:06
+NEW FILE: 01FT2BWJYBO3WG5X2LKZCJGVOCLTOFN2J3.json | 1.30 KB | 2025-07-24 00:43:46
+NEW FILE: AZ-900_Exam_Dumps_429_Q&A_PDF_Clearcatnet[1]1-1.pdf | 42168.11 KB | 2025-07-01 15:51:45
+NEW FILE: .~lock.Validation_T21_AUS_Rack_Rate_09-01-25.xlsx# | 0.11 KB | 2026-01-09 17:34:32
+NEW FILE: OneDrive_2_8-2-2025.zip | 417636.12 KB | 2025-08-02 04:12:50
+NEW FILE: cloud 1.png | 10036.00 KB | 2025-07-28 00:21:24
+NEW FILE: hZDj177i.html | 0.00 KB | 2025-08-13 04:44:04
+NEW FILE: JUDE 2(1).xlsx | 9.21 KB | 2025-10-24 10:59:16
+NEW FILE: OneDrive_1_8-1-2025(1).81eafIjF.zip.part | 26895.83 KB | 2025-08-01 02:13:59
+NEW FILE: google-chrome-stable_current_amd64.deb | 114986.18 KB | 2025-06-21 00:56:40
+NEW FILE: EV_AWS-Summit-Johannesburg-2025-Livestream_Aug-2025 (1).ics | 0.98 KB | 2025-07-31 18:41:31
+NEW FILE: Alice_Anane-WAEC cert.jpeg | 144.73 KB | 2026-04-30 21:35:40
+NEW FILE: L6 - Kubernetes.pptm | 2522.86 KB | 2025-07-15 17:12:30
+NEW FILE: kubectl | 58712.18 KB | 2025-05-16 23:46:25
+NEW FILE: shared-server-guide.md | 4.18 KB | 2026-02-15 23:22:23
+NEW FILE: WhatsApp Image 2026-01-07 at 15.28.21.jpeg | 48.92 KB | 2026-01-07 15:32:34
+NEW FILE: UPDATE -  NEW INDIVIDUAL ESL BROKERAGE .pdf | 2441.00 KB | 2025-11-10 17:12:49
+NEW FILE: Outstanding_section_3_issues_2025-08-07b.xlsx | 44.30 KB | 2025-08-07 18:39:11
+NEW FILE: KOOMSON, JUDY NYAMEKYE.pdf | 238.65 KB | 2025-11-28 10:12:56
+NEW FILE: youtube-dl-2021.12.17.tar.gz | 3254.20 KB | 2025-10-18 06:32:45
+NEW FILE: image001.emz | 21.46 KB | 2025-10-21 08:04:16
+NEW FILE: proxmox-ve_8.4-1.iso | 1535054.00 KB | 2025-07-02 13:39:51
+NEW FILE: paper-dashboard-master.zip | 3158.98 KB | 2025-06-24 17:03:42
+NEW FILE: Nakise - Product Requirements Document.docx | 184.46 KB | 2025-07-09 08:07:15
+NEW FILE: Interswitch Dev Community X Enyata Hackathon Workshop (19th March 2026) [tokbG-04MGY].webm | 387829.28 KB | 2026-03-24 16:23:52
+NEW FILE: production_db_backup.sql | 12944.07 KB | 2026-01-26 15:48:40
+NEW FILE: Screenshot_2026-03-12_150151-removebg-preview.png | 19.42 KB | 2026-03-12 15:41:36
+NEW FILE: 5 Database Operations in HIVE Using CLOUDERA.pdf | 1469.12 KB | 2025-05-29 10:24:04
+NEW FILE: AI 900 (1).pdf | 2978.18 KB | 2025-07-01 15:49:16
+NEW FILE: id_ed25519.pub | 0.10 KB | 2026-01-29 09:06:47
+NEW FILE: 1. Installing Vmware-Ubuntu.pdf | 72.57 KB | 2025-05-29 10:24:22
+NEW FILE: WhatsApp Unknown 2026-03-27 at 09.08.00.zip | 784.17 KB | 2026-03-27 09:07:59
