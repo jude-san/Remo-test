@@ -23,14 +23,14 @@ python monitoring.py --directory /path/to/your/directory
 		```
 		python monitoring.py --directory /home/user/Documents
 		```
-	- Your example:
+	- example:
 		```
 		python3 monitoring.py -d ~/Downloads
 		```
 
 ### Output
-- New files detected are printed to the console and appended to `log.txt` in the script's directory.
-- The script maintains a `state.json` file to track previously seen files and their modification times.
+- `log.txt`
+- `state.json` file to track previously seen files and their modification times, this resembles something like a state mechanism.
 
 ## Assumptions
 - The script assumes the specified directory exists and is accessible.
